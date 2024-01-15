@@ -1,0 +1,14 @@
+C:\Projetos\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.exe
+C:\Projetos\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.deps.json
+C:\Projetos\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.runtimeconfig.json
+C:\Projetos\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.dll
+C:\Projetos\projeto-estacionamento\bin\Debug\net8.0\projeto-estacionamento.pdb
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.AssemblyInfoInputs.cache
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.AssemblyInfo.cs
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.csproj.CoreCompileInputs.cache
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.dll
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\refint\projeto-estacionamento.dll
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.pdb
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.genruntimeconfig.cache
+C:\Projetos\projeto-estacionamento\obj\Debug\net8.0\ref\projeto-estacionamento.dll
